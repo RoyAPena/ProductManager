@@ -1,0 +1,16 @@
+ProductManagerApi/obj/
+ProductManagerApi/bin/
+ProductManagerApi.Repository.SQL/obj/
+ProductManagerApi.Repository.SQL/bin/
+ProductManagerApi.Entities/obj/
+ProductManagerApi.Entities/bin/
+ProductManagerApi.Contract.Services/bin/
+ProductManagerApi.Contract.Repository/obj/
+ProductManagerApi.Contract.Repository/bin/
+ProductManagerApi.BL/obj/
+ProductManagerApi.BL/bin/
+packages/
+.vs/
+ProductManagerApi.Contract.Services/obj/
+ProductManagerApi.Entities.Core/PayrollManagerApi.Entities.Core.csproj
+ProductManagerApi.Entities.Core/Class1.cs
